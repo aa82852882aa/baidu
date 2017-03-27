@@ -1,0 +1,22 @@
+{
+  "view/loadImganimate.html": {
+    "href": "view/loadImganimate.html",
+    "priority": 0,
+    "resources": [],
+    "refer": []
+  },
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "css/font-awesome.min.css",
+      "css/app.css",
+      "css/singlSongList.css",
+      "js/jquery-3.1.0.min.js",
+      "js/app.js"
+    ],
+    "refer": [
+      "view/loadImganimate.html"
+    ],
+    "priority": 0
+  }
+}
